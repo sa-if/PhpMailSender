@@ -2,4 +2,4 @@ This script uses the mail() function in PHP to send an email. To use this script
 
 Note that this script will only work if you have enabled less secure apps in your Google account settings. You can do this by visiting the following URL and following the instructions:
 https://www.google.com/settings/security/lesssecureapps
-After you have enabled less secure apps, you can use this script to send email from your Gmail account. You can save this script as a PHP file and run it on your web server to send email.
+After you have enabled less secure apps, you can use this script to send email from your Gmail account. You can save this script as a PHP file and run it on your web server to send email.❤️❤️
