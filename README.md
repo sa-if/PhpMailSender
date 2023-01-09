@@ -1,5 +1,5 @@
+<h1 align="center">Php based Mail sender.✌️👍</h1>
 
-`Php based Mail sender.✌️👍`
 
 `It is a Php based advanced mailer for sending mails from webservers.🙂
 `
