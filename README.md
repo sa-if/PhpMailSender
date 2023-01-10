@@ -5,12 +5,12 @@
 `
 
 
-## Authors
+## Authors😉
 
 - [@saifislam](https://www.github.com/sa-if)
 
 
-## Used By
+## Used By🧑‍🤝‍🧑
 
 This project is used by the following individual:
 
@@ -19,12 +19,12 @@ This project is used by the following individual:
 - `M.B. Saimoon`
 
 
-## Support
+## Support 💁🏻‍♂️
 
 For support, email `saifislam23122005@gmail.com` or join `facebook` community.(●'◡'●)
 
 
-## Features
+## Features 🙌🏻
 
 
 - `Send mails from webservers`
@@ -32,7 +32,7 @@ For support, email `saifislam23122005@gmail.com` or join `facebook` community.(�
 - `Too easy to use`
 
 
-## Usage/Examples
+## Usage/Examples 🎃
 
 
 Do the follwing:
